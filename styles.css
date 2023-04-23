@@ -186,11 +186,10 @@
     text-align: center;
 }
 
-#main_image {
+.main_image {
     height: 80%;
     width: 80%;
 }
-
 
 .reptiles {
     background: #141414;
